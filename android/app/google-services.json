@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "788693790935",
+    "project_id": "biit-quizz",
+    "storage_bucket": "biit-quizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788693790935:android:ef3b606b90e7090338c092",
+        "android_client_info": {
+          "package_name": "com.example.biit_quizz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788693790935-nm9qpgfgd02amfaklavseam73v3i02i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biit_quizz",
+            "certificate_hash": "5a49666a5b50e4e4cabf799ce1d95cf1435f9997"
+          }
+        },
+        {
+          "client_id": "788693790935-rrvehuhj8l1koq1a8r62vbdsgbfdv4um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSe32t7Mxbx8OSoYJR5wvZyGeYDaN4JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788693790935-rrvehuhj8l1koq1a8r62vbdsgbfdv4um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
